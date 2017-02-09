@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency("rails", "~> 4.0")
-  s.add_dependency("ransack", "~> 1.2")
-  s.add_dependency("kaminari", "~> 0.15")
+  #s.add_dependency("ransack", "~> 1.2")
+  #s.add_dependency("kaminari", "~> 0.15")
   s.add_development_dependency("rspec-rails", "~> 2.4")
 end
